@@ -1,4 +1,3 @@
-# fuxi-chrome-plus
 
 ### Fuxi plug-in user manual
 
@@ -55,9 +54,9 @@ In the plugin settings, you can choose a predefined strategy, or set a custom st
 
 * Please check the network connection and make sure that the plugin is connected to the market data source properly.
 
----
 
 ####9. Technical support and contact us
+Technical site :https://m3u8home.top
 Technical support email: yyy99910@gmail.com
 Youtube: @efens999
 
@@ -116,8 +115,8 @@ Youtube: @efens999
 
   * 请检查网络连接，并确保插件与市场数据源的连接正常。
 
----
 
 ####9.技术支持与联系我们
+技术网站:https://m3u8home.top
 技术支持邮箱：yyy99910@gmail.com
 Youtube: @efens999
